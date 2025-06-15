@@ -8,7 +8,6 @@ _**Unlocking Coffee's Hidden Potential - A Journey Through Data**_
 
 ## Table of Contents
 - [Business Problem](#business-problem)
-- [Business Problem](#business-problem)
 - [Objective, Solution, and Outcome](#objective-solution-and-outcome)
 - [Method](#method)
 - [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
